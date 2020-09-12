@@ -321,9 +321,7 @@ section.connect .icon-box {
     line-height: 50pt;
     color: #fff; }
     section.connect .icon-box .fa.fa-paper-plane {
-      margin-left: -7px; }
-    section.connect .icon-box .fa.fa-facebook {
-      margin-left: -5px; }
+      margin-left: -7px; }  }
   section.connect .icon-box .icon:hover {
     background: white;
     box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.3);
